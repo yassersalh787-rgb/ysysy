@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "label": "إعلان",
+  "rotateSeconds": 8,
+  "ads": [
+    {
+      "image": "ad.jpg",
+      "title": "ياسر صالح",
+      "text": "الوقت كل سيف اذا لم تقطه يقطعك",
+      "link": "https://wa.me/9647717057270",
+      "buttonText": "تواصل معي عبر واتساب"
+    }
+  ]
+}
